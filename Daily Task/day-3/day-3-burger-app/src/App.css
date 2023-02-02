@@ -1,0 +1,31 @@
+.main-container{
+  padding:100px 400px;
+}
+.roti{
+  height: 60px;
+  border-radius: 20px;
+  background-color: orange;
+}
+.roti-atas{
+  /* border-radius: 15px 50px 30px 5px; (top-left corner, top-right corner, bottom-right corner, bottom-left corner) */
+  border-radius: 110px 110px 10px 10px;
+  height: 100px;
+}
+
+.bahan-daging{
+  height:45px;
+  border-radius: 10px;
+  background-color: brown;
+}
+
+.bahan-tomat{
+  height: 20px;
+  border-radius: 20px;
+  background-color: red;
+}
+
+.bahan-selada{
+  height: 20px;
+  border-radius: 20px;
+  background-color: greenyellow;
+}
